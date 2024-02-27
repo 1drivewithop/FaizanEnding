@@ -31,7 +31,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double quotes - changing " to \".
   // You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-  'Powered by <a href="https://t.me/Ifazee" target="_blank" rel="noopener noreferrer"> Faizan</a>. & Made by  <a href="https://t.me/Erroroo" target="_blank" rel="noopener noreferrer"> ❤️ OPGOHIL',
+  '<a href="https://t.me/Ifazee" target="_blank" rel="noopener noreferrer"> Powered by 😎 Faizan</a>. &  <a href="https://t.me/Erroroo" target="_blank" rel="noopener noreferrer"> Made by ❤️ OPGOHIL',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name you provide. See the documentation for details.
