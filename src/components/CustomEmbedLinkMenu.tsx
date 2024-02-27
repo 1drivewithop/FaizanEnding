@@ -84,12 +84,12 @@ export default function CustomEmbedLinkMenu({
                 <>
                   {t('Change the raw file direct link to a URL ending with the extension of the file.')}{' '}
                   <a
-                    href="https://ovi.swo.moe/docs/features/customise-direct-link"
+                    href="https://t.me/Erroroo"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-400 underline"
                   >
-                    {t('What is this?')}
+                    {t('What is this Ask me?')}
                   </a>
                 </>
               </Dialog.Description>
